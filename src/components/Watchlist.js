@@ -3,7 +3,7 @@ import React from 'react';
 const Watchlist = () => {
     return(
         <>
-            <span className='mr-2'>Add to Wishlist</span>
+            <span className='mr-2'>Add to Watchlist</span>
             <svg 
                 xmlns="http://www.w3.org/2000/svg" 
                 width="16" 
