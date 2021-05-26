@@ -2,7 +2,8 @@
 
 This was the final part of my assesment for an internship at Bidgala(https://bidgala.com/).
 
-Created a movie app where the user can add/delete movies to the wishlist.
+
+Created a simple web interface that can search OMDB API for movies.
 
 Requirements 
     •    Search OMDB and display the results (only movies, not TV shows) - should display the  image and movie title at the very least 
