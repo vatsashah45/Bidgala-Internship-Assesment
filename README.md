@@ -11,3 +11,5 @@ Requirements
     •    Delete a movie from your watchlist  
     •    View your watchlist  
     •    If a search result movie has already been added, disable its add button. 
+    
+    https://bidgala-movie-app.herokuapp.com/
